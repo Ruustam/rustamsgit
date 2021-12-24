@@ -1,0 +1,147 @@
+* {
+    background-color: grey;
+}
+
+.box1,
+.box3,
+.box5,
+.box7 {
+    background-color: darkseagreen;
+    width: 50px;
+    height: 50px;
+}
+
+.box2,
+.box4,
+.box6,
+.box8 {
+    background-color: darkgreen;
+    width: 50px;
+    height: 50px;
+}
+
+#box1,
+#box3,
+#box5,
+#box7 {
+    background-color: darkgreen;
+    width: 50px;
+    height: 50px;
+}
+
+#box2,
+#box4,
+#box6,
+#box8 {
+    background-color: darkseagreen;
+    width: 50px;
+    height: 50px;
+}
+
+.qator1 {
+    position: absolute;
+    left: 8px;
+    top: 8px;
+}
+
+.qator3 {
+    position: absolute;
+    left: 108px;
+    top: 8px;
+}
+
+.qator5 {
+    position: absolute;
+    left: 208px;
+    top: 8px;
+}
+
+.qator7 {
+    position: absolute;
+    left: 308px;
+    top: 8px;
+}
+
+.qator2 {
+    position: absolute;
+    left: 58px;
+    top: 8px;
+}
+
+.qator4 {
+    position: absolute;
+    left: 158px;
+    top: 8px;
+}
+
+.qator6 {
+    position: absolute;
+    left: 258px;
+    top: 8px;
+}
+
+.qator8 {
+    position: absolute;
+    left: 358px;
+    top: 8px;
+}
+
+.Konteyner {
+    position: absolute;
+    right: 1000px;
+    top: 100px;
+}
+
+#n1 {
+    position: absolute;
+    left: -20px;
+    top: 46px;
+}
+
+#n2 {
+    position: absolute;
+    left: -71px;
+    top: 96px;
+}
+
+#n3 {
+    position: absolute;
+    left: -121px;
+    top: 146px;
+}
+
+#n4 {
+    position: absolute;
+    left: -171px;
+    top: 196px;
+}
+
+#n5 {
+    position: absolute;
+    left: -221px;
+    top: 246px;
+}
+
+#n6 {
+    position: absolute;
+    left: -271px;
+    top: 296px;
+}
+
+#n7 {
+    position: absolute;
+    left: -321px;
+    top: 346px;
+}
+
+#n8 {
+    position: absolute;
+    left: -371px;
+    top: 396px;
+}
+
+.n8 {
+    position: absolute;
+    left: 520px;
+    top: 505px;
+}
